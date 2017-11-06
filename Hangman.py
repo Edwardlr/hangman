@@ -1,3 +1,4 @@
+#the self-taught programmer
 def hangman(word):
     wrong_guesses = 0
     stages = ["", "________      ", "|      |      ", "|      0      ", "|     /|\     ", "|     / \     ", "|"]
